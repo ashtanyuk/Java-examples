@@ -1,5 +1,7 @@
 # Java примеры
 
+![Lines of code](https://img.shields.io/tokei/lines/GitHub/ashtanyuk/Java-examples)
+
 - **01-intro** :: Введение, общие примеры
 - **02-io** :: Ввод/вывод. Работа с файлами
 - **03-properties** :: Работа с XML-файлами и свойствами
