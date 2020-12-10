@@ -1,6 +1,7 @@
 # Java примеры
 
 ![Lines of code](https://img.shields.io/tokei/lines/GitHub/ashtanyuk/Java-examples)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ashtanyuk/java-examples)
 
 - **01-intro** :: Введение, общие примеры
 - **02-io** :: Ввод/вывод. Работа с файлами
